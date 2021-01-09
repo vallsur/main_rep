@@ -1,0 +1,19 @@
+/home
+└── vallsur
+    ├── D2
+    ├── Desktop
+    ├── Documents
+    ├── Downloads
+    ├── f2
+    ├── file1
+    ├── file2
+    ├── home_tree.txt
+    ├── Music
+    ├── Pictures
+    ├── Public
+    ├── sample1.txt
+    ├── Templates
+    ├── todo-list.txt
+    └── Videos
+
+10 directories, 6 files
